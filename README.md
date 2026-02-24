@@ -10,13 +10,13 @@ A custom-built dictionary for Kindle devices to help Khmer readers look up words
 ## How to Install / របៀបដំឡើង
 
 ### ភាសាខ្មែរ
-1. **ទាញយក (Download)** ឯកសារវចនានុក្រម (ប្រភេទ .mobi) ពីទីនេះ។
-2. **ភ្ជាប់ (Connect)** Kindle របស់អ្នកទៅកាន់កុំព្យូទ័រតាមរយៈខ្សែ USB។
-3. **ចម្លង (Copy)** ឯកសារនោះចូលទៅក្នុង Folders `documents/dictionaries` នៅក្នុង Kindle របស់អ្នក។
-4. **ដក (Eject)** Kindle ចេញពីកុំព្យូទ័រឱ្យបានត្រឹមត្រូវ។
+1. **ទាញយក (Download):** ឯកសារវចនានុក្រម (ប្រភេទ `.mobi`) ពីទីនេះ។
+2. **ភ្ជាប់ (Connect):** Kindle របស់អ្នកទៅកាន់កុំព្យូទ័រតាមរយៈខ្សែ USB។
+3. **ចម្លង (Copy):** ឯកសារនោះចូលទៅក្នុង Folder `documents/dictionaries` នៅក្នុង Kindle របស់អ្នក។
+4. **ដក (Eject):** Kindle ចេញពីកុំព្យូទ័រឱ្យបានត្រឹមត្រូវ។
 5. **កំណត់យក (Set as Default):** * ចូលទៅកាន់ **Settings** > **Language & Dictionaries** > **Dictionaries**។
    * រួចជ្រើសរើសយកវចនានុក្រមខ្មែរនេះជា Default ជាការស្រេច។
-
+6. **សម្គាល់:** បើសិនជាអ្នកមិនឃើញវចនានុក្រមថ្មីនេះទេ សូមសាកល្បង **Restart (បិទ/បើក)** ឧបករណ៍ Kindle របស់អ្នកឡើងវិញ។
 
 ### English
 1. **Download** the dictionary file (e.g., `.mobi` or `.prc`) from this repository.
@@ -25,6 +25,7 @@ A custom-built dictionary for Kindle devices to help Khmer readers look up words
 4. **Eject** your Kindle safely.
 5. **Set as Default:** * Go to **Settings** > **Language & Dictionaries** > **Dictionaries**.
    * Select this Khmer dictionary as your default.
+6. **Note:** If you don't see the dictionary appearing in the list, please **Restart** your Kindle device.
 
 ---
 
