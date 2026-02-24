@@ -8,6 +8,8 @@ A custom-built dictionary for Kindle devices to help Khmer readers look up words
 ---
 
 ## How to Install / របៀបដំឡើង
+[Download link](https://drive.google.com/file/d/1HN9A3U9y8FKZgMg_nTOvM21rXMYSeXDO/view?usp=sharing
+)
 
 ### ភាសាខ្មែរ
 1. **ទាញយក (Download):** ឯកសារវចនានុក្រម (ប្រភេទ `.mobi`) ពីទីនេះ។
@@ -38,7 +40,7 @@ A custom-built dictionary for Kindle devices to help Khmer readers look up words
 Building and maintaining this dictionary takes significant time and effort to ensure a seamless reading experience for everyone. This project relies entirely on community support to stay alive. Without your contributions, it becomes difficult to provide future updates or add more words. If this tool has added value to your reading life, please consider doing your part to keep it running and improving for the long term.
 **Scan to Donate via ABA / ស្កេនដើម្បីឧបត្ថម្ភ:**
 
-![ABA QR Code](your-qr-image-link.png)
+ABA Pay Way: [https://link.payway.com.kh/ABAPAYid418966O](https://link.payway.com.kh/ABAPAYid418966O)
 
 ---
 
