@@ -8,7 +8,7 @@ A custom-built dictionary for Kindle devices to help Khmer readers look up words
 ---
 
 ## How to Install / របៀបដំឡើង
-[Download link](https://drive.google.com/file/d/1HN9A3U9y8FKZgMg_nTOvM21rXMYSeXDO/view?usp=sharing
+[Download link]([https://drive.google.com/file/d/1HN9A3U9y8FKZgMg_nTOvM21rXMYSeXDO/view?usp=sharing](https://drive.google.com/drive/folders/1OSbLgqP8ZY3uYlg-q3R21RNwxbqu-n74?usp=sharing)
 )
 
 ### ភាសាខ្មែរ
